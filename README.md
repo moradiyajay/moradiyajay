@@ -31,10 +31,6 @@
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorbomb&langs_count=10&theme=tokyonight&layout=compact" alt="juniorbomb :: Top Langs" />
-
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=juniorbomb&show_icons=true&theme=tokyonight&count_private=true" alt="juniorbomb :: Profile Stats" /></p>
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorbomb&show_icons=true&count_private=true&theme=buefy&hide_border=true" alt="juniorbomb :: Profile Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorbomb&langs_count=10&theme=buefy&layout=compact&hide_border=true" alt="juniorbomb :: Top Langs" /> 
+|------|------|
 ---
