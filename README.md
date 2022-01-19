@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning:        Flutter, Dart, Blockchain 😎</br>
 - 👯 I’m looking to collaborate on: Flutter, Node.js and MongoDB related projects </br>
 - 🤔 I’m looking for help with:     Anything related to what I am currently learning 😅 </br>
-- 💬 Ask me about:                  Flutter, Android,Firebase, Node.js </br>
+- 💬 Ask me about:                  Flutter, Android, Firebase, Node.js </br>
 - 📫 How to reach me:              https://github.com/juniorbomb#you-can-reach-me-at-alien </br>
  
 
@@ -13,7 +13,7 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/jay-moradiya-86aa14216/">
+  <a href="https://www.linkedin.com/in/jay-m-86aa14216">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
 
