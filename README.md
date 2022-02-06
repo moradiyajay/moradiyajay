@@ -1,7 +1,7 @@
 # Jay Moradiya
  <h2 align="center">About me</h2>
  
-- ⚡ Quick bio:                    A kind of gamer-traveler-coder-programmer-anime-vollyball-musiclover-crypto_enthusiast </br>
+- ⚡ Quick bio:                    A kind of gamer-traveler-coder-programmer-anime-vollyball-musiclover-crypto </br>
 - 🌱 I’m currently learning:        Flutter, Dart, Blockchain 😎</br>
 - 👯 I’m looking to collaborate on: Flutter, Node.js and MongoDB related projects </br>
 - 🤔 I’m looking for help with:     Anything related to what I am currently learning 😅 </br>
