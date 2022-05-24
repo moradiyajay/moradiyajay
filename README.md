@@ -34,6 +34,84 @@
 📊 **This week i spent my time on:**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-591%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 616 Contributions in the Year 2022
+ > 
+> 📦 2.9 MB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 21 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
+🌆 Daytime    246 commits    █████████░░░░░░░░░░░░░░░░   39.05% 
+🌃 Evening    203 commits    ████████░░░░░░░░░░░░░░░░░   32.22% 
+🌙 Night      102 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.19%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
+Tuesday      91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
+Wednesday    90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Thursday     100 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.87% 
+Friday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.49% 
+Saturday     104 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.51% 
+Sunday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.22%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Dart** 
+
+```text
+Dart                     20 repos            █████████████████░░░░░░░░   68.97% 
+Makefile                 3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/juniorbomb/juniorbomb/main/charts/bar_graph.png) 
+
+
+ Last Updated on 24/05/2022 13:54:54 UTC
 <!--END_SECTION:waka-->
 
 
