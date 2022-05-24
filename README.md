@@ -31,5 +31,22 @@
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+MDX          5 hrs 22 mins   ███████████░░░░░░░░░░░░░░   43.95 %
+TypeScript   2 hrs 37 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
+JavaScript   2 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+HTML         36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+JSON         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+SCSS         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+```
+
+<!--END_SECTION:waka-->
+
+
+📈 my github stats
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorbomb&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="juniorbomb :: Profile Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorbomb&langs_count=10&theme=tokyonight&layout=compact&hide_border=true" alt="juniorbomb :: Top Langs" /> 
 |------|------|
