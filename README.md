@@ -3,9 +3,9 @@
  
 - ⚡ Quick bio:                    A kind of gamer-traveler-developer-anime-vollyball-music-crypto </br>
 - 🌱 I’m currently learning:        Flutter, Dart, Blockchain 😎</br>
-- 👯 I’m looking to collaborate on: Flutter, Node.js and MongoDB related projects </br>
+- 👯 I’m looking to collaborate on: Flutter, Firebase and MongoDB related projects </br>
 - 🤔 I’m looking for help with:     Anything related to what I am currently learning 😅 </br>
-- 💬 Ask me about:                  Flutter, Android, Firebase, Node.js </br>
+- 💬 Ask me about:                  Flutter, Firebase, Node.js </br>
 - 📫 How to reach me:              https://github.com/juniorbomb#you-can-reach-me-at-alien </br>
  
 
