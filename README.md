@@ -32,6 +32,9 @@
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 📈 my github stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorbomb&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="juniorbomb :: Profile Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorbomb&langs_count=10&theme=tokyonight&layout=compact&hide_border=true" alt="juniorbomb :: Top Langs" /> 
 |------|------|
