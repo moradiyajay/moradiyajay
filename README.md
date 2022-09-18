@@ -23,18 +23,18 @@
 	
 </p>
 
+<!--
 <h2 align="center">Github stats :bar_chart:</h2>
+
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{juniorbomb}/count.svg" alt="juniorbomb :: Visitor's Count" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{juniorbomb}/count.svg" alt="juniorbomb :: Visitor's Count" /></p> 
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-📈 my github stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
+📈 my github 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorbomb&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="juniorbomb :: Profile Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorbomb&langs_count=10&theme=tokyonight&layout=compact&hide_border=true" alt="juniorbomb :: Top Langs" /> 
 |------|------|
+
+-->
