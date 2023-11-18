@@ -2,10 +2,10 @@
  <h2 align="center">About me</h2>
  
 - ⚡ Quick bio:                    A kind of gamer-traveler-developer-anime-vollyball-music </br>
-- 🌱 I’m currently learning:        Flutter, Angular, .Net, Typescript, C# Dart</br>
-- 👯 I’m looking to collaborate on: Flutter, Firebase and MongoDB related projects </br>
+- 🌱 I’m currently learning:        Angular, Flutter, Node, .Net, Typescript, C# Dart</br>
+- 👯 I’m looking to collaborate on: Angular, Flutter, Firebase and MongoDB, SQL related projects </br>
 - 🤔 I’m looking for help with:     Anything related to what I am currently learning 😅 </br>
-- 💬 Ask me about:                  Flutter, Firebase </br>
+- 💬 Ask me about:                 Angular, Node, Flutter, Firebase </br>
 - 📫 How to reach me:              https://github.com/juniorbomb#you-can-reach-me-at-alien </br>
  
 
