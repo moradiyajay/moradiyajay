@@ -16,7 +16,10 @@
   
 
   <a href="https://stackoverflow.com/users/15096319/juniorbomb?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Jay Moradiya's Stack Overflow Profile" height="30" width="30">
+  </a>
+  <a href="https://www.linkedin.com/in/jay-moradiya">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Jay Moradiya's Linkedin Profile" height="30" width="30">
   </a>
 	
 </p>
