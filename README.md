@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on: Angular, Flutter, Firebase and MongoDB, SQL related projects </br>
 - 🤔 I’m looking for help with:     Anything related to what I am currently learning 😅 </br>
 - 💬 Ask me about:                 Angular, Node, Flutter, Firebase </br>
-- 📫 How to reach me:              https://github.com/juniorbomb#you-can-reach-me-at-alien </br>
+- 📫 How to reach me:              https://www.upwork.com/freelancers/moradiyajay </br>
  
 
 <h2 align="center">You can reach me at :alien:</h2>
