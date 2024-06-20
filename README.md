@@ -32,9 +32,4 @@
 
  <p align="center"><img src="https://profile-counter.glitch.me/{juniorbomb}/count.svg" alt="moradiyajay :: Visitor's Count" /></p> 
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-📈 my github 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=moradiyajay&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="moradiyajay :: Profile Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moradiyajay&langs_count=10&theme=tokyonight&layout=compact&hide_border=true" alt="moradiyajay :: Top Langs" /> 
-|------|------|
-
+ 
